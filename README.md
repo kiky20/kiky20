@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m a new learner and self learner
-- 📫 Feel free to DM me on instagram (https://www.instagram.com/youthlife2020/)
+- 📫 Feel free to DM me on instagram (https://www.instagram.com/limp.re/)
 
 <!---
 kiky20/kiky20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
